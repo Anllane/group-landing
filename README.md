@@ -53,4 +53,3 @@
 *   GitHub: [@Anllane](https://github.com/Anllane)
 
 ---
-*Сделано с ❤️ для ALANE GROUP*
